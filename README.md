@@ -37,9 +37,7 @@
 - Flickr8k
 - Flick30k
 - MSCOCO
-<center>
-![pic1s](https://github.com/CUGIPISPLab/2018_CXY/blob/master/image/dataset_size.png)
-</center>
+
 
 ### 网络模型：
 - gLSTM 解决了图像仅在开始时传入 LSTM 的问题
