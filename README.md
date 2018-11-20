@@ -38,7 +38,7 @@
 - Flick30k
 - MSCOCO
 <center>
-![](https://github.com/CUGIPISPLab/2018_CXY/blob/master/image/dataset_size.png)
+![pic1s](https://github.com/CUGIPISPLab/2018_CXY/blob/master/image/dataset_size.png)
 </center>
 
 ### 网络模型：
