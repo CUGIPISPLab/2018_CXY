@@ -13,7 +13,7 @@
 
 ### 项目开始时间：
 
-以第一次组会时间为项目正式开始时间即 2018/11/8
+以第一次组会时间为项目正式开始时间即 2018/11/8
 ### 项目主要内容：
 
 复杂自然场景图像自动标注，通过分析和复现 2016 CVPR 论文 "Show attend and tell" 来实现自己的自然场景图像自动标注。该论文的复现大致可以分成三个部分 
@@ -37,6 +37,9 @@
 - Flickr8k
 - Flick30k
 - MSCOCO
+<center>
+![](https://github.com/CUGIPISPLab/2018_CXY/blob/master/image/dataset_size.png)
+</center>
 
 ### 网络模型：
 - gLSTM 解决了图像仅在开始时传入 LSTM 的问题
